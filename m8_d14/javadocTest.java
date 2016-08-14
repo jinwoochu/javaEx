@@ -5,7 +5,7 @@ public class javadocTest {
 		testMan(1,2);
 	}
 	/**
-	 * 
+	 * ㅁㅁㅁㅁㅁ
 	 * 이 문서에 대한 설명부를 적을수 있는 부분이다.
 	 * @author CHU
 	 * @param a a인수에 대한 설명
